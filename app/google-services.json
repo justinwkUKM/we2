@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "608969058350",
+    "firebase_url": "https://ourchat-8ca80.firebaseio.com",
+    "project_id": "ourchat-8ca80",
+    "storage_bucket": "ourchat-8ca80.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:608969058350:android:aa1de049d9132652",
+        "android_client_info": {
+          "package_name": "com.waqas.ourchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "608969058350-a2i2mb1iuc94bnnqkc8krkdfgl8no8ma.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIzl81928qwO-T5Qt0MqD0pKFZcZCn5v4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
